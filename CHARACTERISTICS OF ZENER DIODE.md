@@ -45,7 +45,7 @@ The diodes, which are designed to operate in the breakdown region, are called th
 
 ## TABULATION:
 
-## CALCULATIONS:
+## CALCULATIONS:.
 
 ## GRAPH:
 
