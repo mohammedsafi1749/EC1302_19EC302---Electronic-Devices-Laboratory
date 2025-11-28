@@ -59,5 +59,7 @@ The diodes, which are designed to operate in the breakdown region, are called th
 
 ## GRAPH:
 
+![Exp-8 zener diode_page-0008](https://github.com/user-attachments/assets/91a29a60-2574-49c9-b888-11eefbb936eb)
+
  ## RESULT:
  Thus the Zener diode characteristics were studied.
