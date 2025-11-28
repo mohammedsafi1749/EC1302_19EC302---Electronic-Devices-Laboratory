@@ -66,6 +66,6 @@ A diode is a PN junction formed by a layer of P type and layer of N type Semicon
 ![Adobe Scan Nov 18, 2023_page-0010](https://github.com/user-attachments/assets/e006c6da-f60d-4617-9f47-5c5d0c157c9d)
 
  ## RESULTS:
- 1. Forward resistance of PN diode     = --------------------
+ 1. Forward resistance of PN diode     = 20(&Omega;)
  2. Reverse resistance   of PN diode   = --------------------
  3. Cut in Voltage of PN diode         = -------------------
