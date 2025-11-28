@@ -16,9 +16,15 @@ The diodes, which are designed to operate in the breakdown region, are called th
 ## CIRCUIT DIAGRAM: 
 ## FORWARD BIAS:
 
+<img width="931" height="339" alt="image" src="https://github.com/user-attachments/assets/86986d4d-1577-4965-8dd3-b2f327676e15" />
+
 ## REVERSE BIAS:
 
+<img width="953" height="361" alt="image" src="https://github.com/user-attachments/assets/c371a7ad-7bc8-4841-bbb3-09d36d2d49d7" />
+
 ## MODEL GRAPH:
+
+<img width="967" height="444" alt="image" src="https://github.com/user-attachments/assets/71eac628-79eb-421d-af1b-90971ed131f4" />
 
 ## PROCEDURE:  
 ## FORWARD BIAS 
@@ -45,7 +51,11 @@ The diodes, which are designed to operate in the breakdown region, are called th
 
 ## TABULATION:
 
+![WhatsApp Image 2025-11-28 at 18 42 42_da8efc1f](https://github.com/user-attachments/assets/bf440ba2-a459-49ea-8bd7-3dc4cd85d8ad)
+
 ## CALCULATIONS:.
+
+![WhatsApp Image 2025-11-28 at 18 42 42_ede6a733](https://github.com/user-attachments/assets/d86474e2-36a6-4f55-8b40-2c611b16f9fb)
 
 ## GRAPH:
 
