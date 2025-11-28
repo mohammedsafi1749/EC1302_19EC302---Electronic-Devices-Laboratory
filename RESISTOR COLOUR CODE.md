@@ -62,6 +62,13 @@ Determine the value and tolerance of the 10 resistors as shown in the following 
 
 ## 3.	Find out the resistor value and tolerance of the 5 resistors provided using colour coding.
 
+![WhatsApp Image 2025-11-28 at 18 12 03_7d4ca943](https://github.com/user-attachments/assets/ab5bc5f5-918e-45b8-8968-9ac5bf556da8)
+
+![WhatsApp Image 2025-11-28 at 18 12 03_e4eaea54](https://github.com/user-attachments/assets/d99e4650-fab2-4d13-8b9a-31c58224ef8f)
+
+![WhatsApp Image 2025-11-28 at 18 12 04_f58af254](https://github.com/user-attachments/assets/caa50b17-814b-4ae8-9116-535e1c1e715f)
+
+![WhatsApp Image 2025-11-28 at 18 12 04_96fdb497](https://github.com/user-attachments/assets/1e06d0de-a834-46d4-9e9a-43f4e4a9cb34)
 
 ## RESULT:
  Thus the resistor value and tolerance of the provided resistors were calculated successfully.
