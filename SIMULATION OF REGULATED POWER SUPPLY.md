@@ -41,6 +41,7 @@ LT-Spice
 
 ## AC INPUT WAVEFORM:
 
+![WhatsApp Image 2025-11-28 at 16 52 50_728e7b4e](https://github.com/user-attachments/assets/9feae15d-ce68-4896-9a01-05919e729988)
 
 ## OUTPUT GRAPH:
 ## SIGNAL OUTPUT(WITHOUT FILTER)
