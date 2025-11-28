@@ -24,11 +24,22 @@ LT-Spice
 8.Click on the run option  simulation window opens  place the probe  output graph is obtained.
 
 ## CIRCUIT DIAGRAM:
+### MOSFET DRAIN
 
+<img width="1292" height="727" alt="image" src="https://github.com/user-attachments/assets/26b4d55b-83fd-45c5-930c-04a2a62149b2" />
 
+### MOSFET TRANSFER
+
+<img width="1484" height="771" alt="image" src="https://github.com/user-attachments/assets/bd723d36-b15c-4c13-a57f-b317b12662e3" />
 
 ## OUTPUT GRAPH:
+### MOSFET DRAIN
 
+<img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/7fe1daf6-e95c-4ba8-882c-674031f961ec" />
+
+### MOSFET TRANSFER
+
+<img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/171e509c-6545-4e58-a704-7b87f8386f05" />
 
 ## RESULT:
 Thus the drain and transfer characteristics of N-channel MOSFET circuit using LT-spice is simulated and verified. 
